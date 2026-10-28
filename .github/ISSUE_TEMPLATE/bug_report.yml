@@ -1,0 +1,36 @@
+name: Bug report
+description: A crash, or behavior that differs from the documentation.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Search the existing issues first. Report security problems privately to
+        admin@orthrus.cc, not here.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The smallest sequence that shows the problem. For terrain, include the seed and coordinates.
+    validations:
+      required: true
+  - type: textarea
+    id: versions
+    attributes:
+      label: Versions
+      description: Minecraft, loader (Cleanroom or Forge) and Java; this project's version or commit; related mods and their versions.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: The relevant part of latest.log or the crash report.
+      render: text

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and discussion
+    url: https://discord.gg/qCVqhXtSzR
+    about: Ask on the Orthrus Research Discord.
+  - name: Security problems
+    url: https://github.com/orthrus-research/.github/blob/main/SECURITY.md
+    about: Report privately to admin@orthrus.cc, not as an issue.

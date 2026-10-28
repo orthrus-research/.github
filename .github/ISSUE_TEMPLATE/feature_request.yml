@@ -1,0 +1,21 @@
+name: Feature request
+description: A change or addition.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What you are trying to do, and what stands in the way today.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: The change you have in mind. Sketches, seeds or screenshots help.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Other approaches you considered, or how you work around it now.
