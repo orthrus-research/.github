@@ -28,8 +28,6 @@ platform in good repair long after most of the world moved on. *For you, with lo
 - **[Workbench Reloaded](https://github.com/orthrus-research/WorkbenchReloaded)** · developer tools.
   Tooling for Minecraft developers behind one terse local API: CI, game sessions, captures and
   comparisons. In development.
-- **[Workbench](https://github.com/orthrus-research/Workbench)** · developer tools. Recipe tracing,
-  project inspection and native checks for 1.12.2 packs. Workbench Reloaded succeeds it.
 
 ## On orthrus.cc
 
