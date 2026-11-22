@@ -1,18 +1,3 @@
-<!--
-The README skeleton for an Orthrus Research repository.
-
-Copy it to the repository's README.md, replace every {placeholder}, and delete these comments and any
-optional section that does not apply. Keep the order: whoever stops reading after any section has
-already read the most useful part.
-
-- Banner: the website repository draws it. `npm run brand -- --into <checkout>` writes it to
-  .github/assets/banner.svg.
-- Badges: pure black, three at most. The status is the project's status on orthrus.cc (research
-  preview, in development, forthcoming), in lower case. In badge text a space is %20 and a hyphen is --.
-- Tables: two or three short columns. Wider tables scroll sideways on a phone.
-- Links: CONTRIBUTING.md and SECURITY.md fall back to the organization's copies. Where the repository
-  has none, link https://github.com/orthrus-research/.github/blob/main/CONTRIBUTING.md instead.
--->
 <p align="center"><img src=".github/assets/banner.svg" alt="{Name} by Orthrus Research" width="100%"></p>
 
 <p align="center">
@@ -25,8 +10,6 @@ already read the most useful part.
 in one or two sentences.} It runs on [Cleanroom](https://github.com/CleanroomMC/Cleanroom) {with
 anything else it needs, linked}.
 
-<!-- For a fork: name the project it continues, and say it is not an official release of that project. -->
-
 ## Status
 
 {The status as orthrus.cc words it}: {what that means here: what works today, what may change between
@@ -35,13 +18,9 @@ versions, and whether a world or a pack carries over}. The current version is {v
 
 ## What {Name} does
 
-<!-- For a fork, call this "Changes from {upstream}". Keep it a short list; the detail belongs in docs/. -->
-
 - **{Part}:** {what it does, in a sentence}.
 
 ## For players and pack makers
-
-<!-- For developer tools, replace this section and the next with "Get started" and "How it fits together". -->
 
 | Component | Version | |
 | --- | --- | --- |
@@ -86,8 +65,6 @@ repository's issues. Security and private matters: admin@orthrus.cc. Pull reques
 {Name} is offered under [{license}](LICENSE). {Any file under another license, and where its notice is.}
 
 ## {Upstream or Credits}
-
-<!-- Optional. For a fork: the project it continues and its license. Otherwise: the work it draws on. -->
 
 {Credits, each with its link.}
 
