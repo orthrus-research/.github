@@ -83,11 +83,11 @@ repository's issues. Security and private matters: admin@orthrus.cc. Pull reques
 
 ## License
 
-{Name} is offered under [{license}](LICENSE). {Any file under another licence, and where its notice is.}
+{Name} is offered under [{license}](LICENSE). {Any file under another license, and where its notice is.}
 
 ## {Upstream or Credits}
 
-<!-- Optional. For a fork: the project it continues and its licence. Otherwise: the work it draws on. -->
+<!-- Optional. For a fork: the project it continues and its license. Otherwise: the work it draws on. -->
 
 {Credits, each with its link.}
 
